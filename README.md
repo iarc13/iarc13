@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<b>GitHub Profile Visitor Counter</b>
+<br><br>
+![Visitor Count](https://profile-counter.glitch.me/{iarc13}/count.svg)
+<br><br>
+<details>
+<summary>📊 Github Stats</summary>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=iarc13&show_icons=true&theme=gotham" alt="Archit Bohra | Stats" />
+</details>
