@@ -1,3 +1,9 @@
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=2406bd&center=true&vCenter=true&width=700&height=50&lines=👋+Hi%2C+I'm+Archit+Bohra;+Sr.+DevSecOps+Engineer+%7C+LLMOps+%7C+Cloud+Infra+Specialist;🛠️+Open+to+DevOps%2FInfra+roles+%28Full-time+or+Contract%29" alt="Archit Bohra banner" />
+</p>
+
+---
+
 ### Hi there 👋 I'm Archit Bohra
 
 🚀 **Sr. DevSecOps Engineer | LLMOps | Infra Architect**  
@@ -25,6 +31,9 @@
 **LLMOps:** Modal, AWS Bedrock, voice agent infrastructure  
 
 ---
+
+💡 **Open to new opportunities** — Full-time or contract roles in DevSecOps, Infra, or Platform Engineering.  
+📄 [**View my resume**](https://drive.google.com/file/d/1ST8Va1XnyEWUfWCKhYiFQ-EVW7hmccv0/view?usp=sharing)
 
 📫 Reach me at: **bohra.archit@gmail.com**  
 🌐 Website: [architbohra.com](https://architbohra.com)  
