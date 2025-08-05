@@ -29,10 +29,3 @@
 📫 Reach me at: **bohra.archit@gmail.com**  
 🌐 Website: [architbohra.com](https://architbohra.com)  
 🔗 LinkedIn: [linkedin.com/in/iarc13](https://linkedin.com/in/iarc13)
-
----
-
-<b>GitHub Profile Visitor Counter</b>  
-<br><br>
-![Visitor Count](https://profile-counter.glitch.me/{iarc13}/count.svg)
-<br><br>
