@@ -33,7 +33,7 @@
 ---
 
 💡 **Open to new opportunities** — Full-time or contract roles in DevSecOps, Infra, or Platform Engineering.  
-📄 [**View my resume**](https://drive.google.com/file/d/1ST8Va1XnyEWUfWCKhYiFQ-EVW7hmccv0/view?usp=sharing)
+📄 [**View my resume**](https://drive.google.com/file/d/1YAxz7qUjARtuxN1OWuJVDRCQVvlrKKs4/view?usp=sharing)
 
 📫 Reach me at: **bohra.archit@gmail.com**  
 🌐 Website: [architbohra.com](https://architbohra.com)  
